@@ -22,7 +22,7 @@ We welcome contributions to improve our governance framework. Please follow the 
 
 ## License
 
-This repository is licensed under the [Your License]. See the LICENSE file for more details.
+This repository is licensed under the **Apache License 2.0**. See the [LICENSE](https://github.com/opensource-sig/community/blob/main/LICENSE) file for more details.
 
 ## Contact
 
